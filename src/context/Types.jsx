@@ -1,0 +1,5 @@
+export const GET_COUNTRIES = 'GET COUNTRIES';
+export const GET_COUNTRY = 'GET COUNTRY'
+export const GET_IP_ADDRESS = 'GET IP ADDRESS';
+export const GET_LOGGEDIN_USER = 'GET LOGGEDIN USER';
+export const SET_LOADING = 'SET LOADING';
